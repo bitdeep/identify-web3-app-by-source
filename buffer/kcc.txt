@@ -1,0 +1,23 @@
+.-----------------------------------------------------------------------------.
+|                                 KCC Network                                 |
+|-----------------------------------------------------------------------------|
+| Pool Provider |   LP    | Reward Tokens |               INFO                |
+|---------------|---------|---------------|-----------------------------------|
+| Kudex         | Various | KUD           | https://kudex.finance             |
+| KuSwap        | Various | KUS           | https://kuswap.io                 |
+| KuCat         | Various | CAT           | https://kucat.finance             |
+| KuBeans       | Various | KUBEANS       | https://kubeans.club              |
+| KandySwap     | Various | KANDY         | https://www.kandyswap.com         |
+| Shibance      | Various | KWOOF         | https://kcc.shibance.com          |
+| BoneSwap      | Various | BONE          | https://farm-kcc.boneswap.finance |
+| SafeDex       | Various | TREATS        | https://safedexkcc.com/info       |
+| KuBone        | Various | KUBONE        | https://kubone.finance            |
+| GemSwap       | Various | GEM           | https://farm.gemswap.exchange     |
+| Kukaburra     | Various | 🐦KUKA        | https://kukaburra.io/             |
+| KuCow         | Various | KUCOW         | https://kucow.finance             |
+| Kukafe        | Various | KAFE          | https://kukafe.finance            |
+| Kuulaid       | Various | KUUL          | https://kuulaid.finance           |
+| KsfSwap       | Various | KSF           | https://ksfswap.finance           |
+| Elk           | Various | ELK           | https://elk.finance               |
+| MojitoSwap    | Various | MJT           | https://app.mojitoswap.finance    |
+'-----------------------------------------------------------------------------'

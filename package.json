@@ -1,0 +1,16 @@
+{
+  "name": "detector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cross-fetch": "^3.1.4",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "vfat": "nodemon index.js vfat kcc",
+    "dev": "nodemon index.js https://kuswap.io https://kudex.finance/"
+  }
+}

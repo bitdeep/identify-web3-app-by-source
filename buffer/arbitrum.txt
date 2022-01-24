@@ -1,0 +1,41 @@
+.----------------------------------------------------------------------------------------------------.
+|                                          Arbitrum Network                                          |
+|----------------------------------------------------------------------------------------------------|
+|    Pool Provider     |  MCN   |   LP    |    Reward Tokens    |                INFO                |
+|----------------------|--------|---------|---------------------|------------------------------------|
+| MagicLand            | REVIEW | Various | MAGIC               | https://magicland.fi               |
+| Parrotdefi           | REVIEW | Various | PPEGG               | https://parrotdefi.com             |
+| GMX                  |        | Various | ETH,Escrowed GMX    | https://gmx.financial              |
+| Sushi                |        | Various | SUSHI               | https://app.sushi.com              |
+| DODO                 |        | Various | DODO                | https://app.dodoex.io              |
+| NYAN                 |        | Various | NYAN                | https://arbinyan.xyz               |
+| TheHoneyPot          |        | Various | HONEY               | https://thehoneypot.finance        |
+| ArbiFarm             |        | Various | AFARM               | https://www.arbifarm.fi            |
+| Marvin               |        | Various | MARVIN              | https://marvinfarms.info           |
+| Arballz              |        | Various | ARB                 | https://arballz.finance            |
+| ArbiKiwi             |        | Various | AKIWI               | http://arbikiwi.finance            |
+| Badger               |        | Various | BADGER              | https://app.badger.finance         |
+| FrostArbi            |        | Various | FROST               | https://frostarbi.com              |
+| TIF                  |        | Various | TIF                 | https://tif.finance                |
+| FrostArbi Iceberg    |        | Various | FFARM               | https://iceberg.frostarbi.com      |
+| Panda Farms          |        | Various | PANDA               | http://pandafarms.live             |
+| Impermax Finance     |        | Various | IMX                 | https://arbitrum.impermax.finance  |
+| Xdollar              |        | Various | XDO                 | https://xdollar-arb.mcn.ventures   |
+| ArbiDolphin          |        | Various | ARBIDOLPHIN         | https://arb.dolphinswap.finance    |
+| WhalesFinance        |        | Various | WHALES              | https://app.whalesfinance.io/      |
+| Arbis                |        | Various | Various             | https://arbis.finance              |
+| DragonArbi           |        | Various | DRAGON              | https://dragonarbi.com             |
+| Hundred              |        | Various | HND                 | https://hundred.finance            |
+| Polarbi              |        | Various | POLAR               | https://www.polarbi.net            |
+| GMArbitrum           |        | Various | GM                  | https://gmarb.finance              |
+| Swapr                |        | Various | SWPR                | https://swapr.eth.link             |
+| Dopex                |        | Various | DPX, rDPX           | https://app.dopex.io/farms         |
+| Beefy                |        | Various | Various             | https://www.beefy.finance/Arbitrum |
+| Curve                |        | Various | CRV                 | https://arbitrum.curve.fi          |
+| Synapse              |        | Various | SYNAPSE             | https://synapseprotocol.com        |
+| Pickle               |        | Various | PICKLE              | https://app.pickle.finance         |
+| Nerd                 |        | Various | NERD                | https://nerdcoin.farm              |
+| WePiggy              |        | Various | WPC                 | https://app.wepiggy.com            |
+| Saddle               |        | Various | SADDLE              | https://saddle.exchange            |
+| ONYX                 |        | Various | ONYX                | https://arbi.onyx.farm/            |
+'----------------------------------------------------------------------------------------------------'
