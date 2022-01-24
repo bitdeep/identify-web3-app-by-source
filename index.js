@@ -181,7 +181,7 @@ async function fetchAllScriptData(url, body) {
                 continue;
             }
         }
-        console.log(uri);
+        // console.log(uri);
         if( uri === "undefined" ) continue;
         let contentUrl;
         if( uri.indexOf('://') !== -1 ){
@@ -201,39 +201,6 @@ async function fetchAllScriptData(url, body) {
     }
     return allData;
 }
-
-/*
-async function fetchAllPreFetchData(url, body) {
-    const DOM = cheerio.load(body);
-    const scripts = DOM('link');
-    let allData = '\n';
-    for (let i = 0; i < scripts.length; i++) {
-        const link = scripts[i];
-        let uri = `${DOM(link).attr('href')}`;
-        if (uri.indexOf('://') !== -1) {
-            // we don't care about external libs
-            continue;
-        }
-        if (uri.indexOf('.css') !== -1) {
-            // we don't care about css
-            continue;
-        }
-        if (uri.indexOf('.ico') !== -1) {
-            // we don't care about css
-            continue;
-        }
-        const contentUrl = url + uri;
-        const scriptData = await get(contentUrl);
-        if( ! scriptData){
-            // ignore content fetch errors
-            continue;
-        }
-        allData += '\n// '+uri+'\n'+scriptData;
-    }
-    return allData;
-}
-*/
-
 
 
 processArgs();
